@@ -1,4 +1,5 @@
-###Passo para subir o projeto
+Passo para subir o projeto
+
 git init
 git remote add origin "aparece um link de acordo com o navegador"
 git add .
