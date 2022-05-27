@@ -12,7 +12,7 @@ git push -u origin master;
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Bernardino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Bernardino&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-##
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif?cid=790b761182941cebac997c971d6586df2deff98236a02ffc&rid=giphy.gif&ct=g">
 
 <div>
 <a href="https://instagram.com/joao_vitor451" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
