@@ -8,8 +8,8 @@ git commit -m "nome que aparece no projeto";
 git push -u origin master;
 
 <div align="center">
-<a href="https://github.com/Tyrulan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tyrulan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Joao-Bernardino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Bernardino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrulan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 ##
