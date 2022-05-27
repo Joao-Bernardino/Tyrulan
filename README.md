@@ -1,6 +1,7 @@
 ## Olá, meu nome é João 🙂
 
   Passo para subir o projeto
+  
 git init;
 
 git remote add origin "aparece um link de acordo com o navegador";
